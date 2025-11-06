@@ -1,7 +1,7 @@
 # 🌐 Sistem Informasi Geografis Pemetaan Kasus Narkoba Menggunakan Algoritma Ray Casting
 
-Aplikasi ini dikembangkan menggunakan **Laravel 12** untuk membantu analisis dan pemetaan kasus penyalahgunaan narkoba di wilayah **Kalimantan Barat**.  
-Proyek ini menerapkan **algoritma Ray Casting** untuk menentukan posisi spasial lokasi kasus terhadap batas wilayah administratif (kabupaten/kota).
+Aplikasi ini dikembangkan menggunakan **Laravel 12** untuk membantu analisis dan pemetaan kasus penyalahgunaan narkoba di wilayah **Kalimantan Barat** (Bisa Juga digunakan untuk 1 Indonesia atau wilayah tertentu).  
+Proyek ini menerapkan **algoritma Ray Casting** (Bisa Juga Menggunakan Algoritma yang lain). untuk menentukan posisi spasial lokasi kasus terhadap batas wilayah administratif (kabupaten/kota).
 
 ---
 
@@ -36,8 +36,8 @@ Berikut urutan tampilan halaman utama hingga fitur analisis dan laporan:
 Kode sumber **tidak dipublikasikan secara umum**.  
 Untuk mendapatkan akses penuh terhadap source code aplikasi ini, silakan hubungi:
 
-📞 **+62 8xx-xxxx-xxxx**  
-📧 **emailkamu@example.com**
+📞 **+62 85849604654 Roni**  
+📧 **ronn.7ex@gmail.com**
 
 ---
 
@@ -47,8 +47,9 @@ Untuk mendapatkan akses penuh terhadap source code aplikasi ini, silakan hubungi
 - **MySQL Database**
 - **Leaflet.js** – Peta interaktif
 - **Bootstrap 5**
-- **AdminLTE Dashboard Template**
+- **Stisla Dashboard Template**
 - **Algoritma Ray Casting**
+- - **API wilayah Indonesia**
 
 ---
 
@@ -63,7 +64,7 @@ Dalam konteks aplikasi ini, algoritma tersebut membantu menentukan **lokasi kasu
 
 ## 👨‍💻 Pengembang
 
-Dikembangkan oleh: **Bos (ronirn)**  
+Dikembangkan oleh: **Roni, S.Kom**  
 Tahun: **2025**  
 Proyek ini dibuat untuk tujuan penelitian dan edukasi dalam bidang **Sistem Informasi Geografis (SIG)** dan **Analisis Spasial**.
 
